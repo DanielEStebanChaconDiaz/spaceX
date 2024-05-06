@@ -1,4 +1,4 @@
 import {
     getAllMissions
-} from './module/missions.js'
+} from './module/rockets.js'
 console.log(await getAllMissions())
